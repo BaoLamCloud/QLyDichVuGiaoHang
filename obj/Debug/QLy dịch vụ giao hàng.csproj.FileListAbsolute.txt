@@ -1,0 +1,21 @@
+D:\Dề tài 10\QLy dịch vụ giao hàng\QLy dịch vụ giao hàng\bin\Debug\QLy dịch vụ giao hàng.exe.config
+D:\Dề tài 10\QLy dịch vụ giao hàng\QLy dịch vụ giao hàng\bin\Debug\QLy dịch vụ giao hàng.exe
+D:\Dề tài 10\QLy dịch vụ giao hàng\QLy dịch vụ giao hàng\bin\Debug\QLy dịch vụ giao hàng.pdb
+D:\Dề tài 10\QLy dịch vụ giao hàng\QLy dịch vụ giao hàng\obj\Debug\QLy dịch vụ giao hàng.csproj.AssemblyReference.cache
+D:\Dề tài 10\QLy dịch vụ giao hàng\QLy dịch vụ giao hàng\obj\Debug\QLy dịch vụ giao hàng.csproj.CoreCompileInputs.cache
+D:\Dề tài 10\QLy dịch vụ giao hàng\QLy dịch vụ giao hàng\obj\Debug\QLy dịch vụ giao hàng.exe
+D:\Dề tài 10\QLy dịch vụ giao hàng\QLy dịch vụ giao hàng\obj\Debug\QLy dịch vụ giao hàng.pdb
+D:\Đề tài 10\QLy dịch vụ giao hàng\QLy dịch vụ giao hàng\bin\Debug\QLy dịch vụ giao hàng.exe.config
+D:\Đề tài 10\QLy dịch vụ giao hàng\QLy dịch vụ giao hàng\bin\Debug\QLy dịch vụ giao hàng.exe
+D:\Đề tài 10\QLy dịch vụ giao hàng\QLy dịch vụ giao hàng\bin\Debug\QLy dịch vụ giao hàng.pdb
+D:\Đề tài 10\QLy dịch vụ giao hàng\QLy dịch vụ giao hàng\obj\Debug\QLy dịch vụ giao hàng.csproj.AssemblyReference.cache
+D:\Đề tài 10\QLy dịch vụ giao hàng\QLy dịch vụ giao hàng\obj\Debug\QLy dịch vụ giao hàng.csproj.CoreCompileInputs.cache
+D:\Đề tài 10\QLy dịch vụ giao hàng\QLy dịch vụ giao hàng\obj\Debug\QLy dịch vụ giao hàng.exe
+D:\Đề tài 10\QLy dịch vụ giao hàng\QLy dịch vụ giao hàng\obj\Debug\QLy dịch vụ giao hàng.pdb
+D:\Detai10_BaoLam_DuyThong\QLy dịch vụ giao hàng\QLy dịch vụ giao hàng\bin\Debug\QLy dịch vụ giao hàng.exe.config
+D:\Detai10_BaoLam_DuyThong\QLy dịch vụ giao hàng\QLy dịch vụ giao hàng\bin\Debug\QLy dịch vụ giao hàng.exe
+D:\Detai10_BaoLam_DuyThong\QLy dịch vụ giao hàng\QLy dịch vụ giao hàng\bin\Debug\QLy dịch vụ giao hàng.pdb
+D:\Detai10_BaoLam_DuyThong\QLy dịch vụ giao hàng\QLy dịch vụ giao hàng\obj\Debug\QLy dịch vụ giao hàng.csproj.AssemblyReference.cache
+D:\Detai10_BaoLam_DuyThong\QLy dịch vụ giao hàng\QLy dịch vụ giao hàng\obj\Debug\QLy dịch vụ giao hàng.csproj.CoreCompileInputs.cache
+D:\Detai10_BaoLam_DuyThong\QLy dịch vụ giao hàng\QLy dịch vụ giao hàng\obj\Debug\QLy dịch vụ giao hàng.exe
+D:\Detai10_BaoLam_DuyThong\QLy dịch vụ giao hàng\QLy dịch vụ giao hàng\obj\Debug\QLy dịch vụ giao hàng.pdb
